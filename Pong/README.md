@@ -4,7 +4,7 @@
 
 # CS50's Pong Assignment
 
-This is an Assignmentfor Pong Project in CS50's Game Dev
+This is an Assignment for Pong Project in CS50's Game Dev
 
 
 ## Authors
